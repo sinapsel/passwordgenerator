@@ -2,7 +2,7 @@
 ### ABOUT:
 Password generator helps you to generate a random password in 5 different security levels
 ### USING:
-Passgen could be run without any parameters. Script will ask you pass length and then you'll get your output like 
+Passgen could be run without any parameters<pre>python passgen.py or ./passgen</pre>. Script will ask you pass length and then you'll get your output like 
 <pre>Pass length:    8
          Numbers only
 91340218
